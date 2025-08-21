@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+
+/* .navbar {
+    background-color: blue;
+} */
+
+.navbar-brand{
+    max-height: 10%;
+    justify-content: center;
+}
+
+
+.carousel-item {
+    max-height: 100%;
+}
+
+/* MAIN */
+
+/* INDEX */
+
+/* QUIENES SOMOS */
+
+.quienesSomosSaludo {
+    background-color: red;
+}
+
+/* ACTIVIDADES */
+
+/* LOGROS DEPORTIVOS */
+
+/* CONTACTO */
+
+.enviar{
+    align-items: center;
+}
